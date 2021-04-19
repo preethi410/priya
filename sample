@@ -1,5 +1,8 @@
 this one is new sample file
 
-
+print("Hello world!!")
+x = 10
+y = 20
+print(x+y)##20
 
 thank you :)-
